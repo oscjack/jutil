@@ -2,6 +2,7 @@
     "name": "oscjack/jutil",
     "type": "library",
     "description": "Utility collection",
+    "minimum-stability": "dev",
     "keywords": [
         "helper",
         "utility"
