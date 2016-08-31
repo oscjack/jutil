@@ -1,0 +1,35 @@
+{
+    "name": "oscjack/jutil",
+    "type": "library",
+    "description": "Utility collection",
+    "keywords": [
+        "helper",
+        "utility"
+    ],
+    "homepage": "https://github.com/oscjack",
+    "support": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack yin",
+            "email": "waring3yin@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Jutil\\": "src/Jutil/"
+        }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+    },
+    "scripts": {
+    }
+}
